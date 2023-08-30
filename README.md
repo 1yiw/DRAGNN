@@ -1,8 +1,8 @@
 # DRAGNN: A XXX
 This is our tensorflow implementation of DRAGNN for drug repositioning associated with:
 
->**DRAGNN: A XXX,**  
->Yi Wang and XXX 
+>**Drug repositioning based on weighted local information augmented graph neural network**  
+>Yajie Meng, Yi Wang, Junlin Xu, Changcheng Lu, Xianfang Tang, Bengong Zhang, Geng Tian and Jialiang Yang 
  
 ## Environment Requirement
 - tensorflow-gpu == 1.13.1
@@ -16,7 +16,7 @@ This is our tensorflow implementation of DRAGNN for drug repositioning associate
 - For "case" and "analysis", we strongly recommend running on Fdataset using CPU to ensure accurate reproducibility.
 ### **If you find our codes helpful, please kindly cite the following paper. Thanks!**
 	@article{DRAGNN,
-	  title={},
-	  author={},
-	  year={},
+	  title={Drug repositioning based on weighted local information augmented graph neural network},
+	  author={Yajie Meng, Yi Wang, Junlin Xu, Changcheng Lu, Xianfang Tang, Bengong Zhang, Geng Tian and Jialiang Yang},
+	  year={2023},
 	}
