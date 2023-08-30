@@ -1,4 +1,4 @@
-# DRAGNN: A XXX
+# Drug repositioning based on weighted local information augmented graph neural network
 This is our tensorflow implementation of DRAGNN for drug repositioning associated with:
 
 >**Drug repositioning based on weighted local information augmented graph neural network**  
